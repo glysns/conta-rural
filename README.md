@@ -15,7 +15,7 @@ Trata-se de um produto que este banco pretende lançar no mercado que será conh
 
 Os requisitos do projeto serão estruturados baseados em processos simples, que inicialmente não necessitarão de meios tecnológicos avançados, justamente para cada participante apresentar uma solução à baixo custo mais viável possível.
 
-#### Itens de avaliação
+#### Itens de avaliação ao longo dos estudos
 * Conhecimento e domínio aos fundamentos e recursos da linguagem escolhida
 * Noções do paradígma da orientação a objetos e os pilares da P O O
 * Compreensão quanto a leitura e escrita de documentos nos formatos: .json, .csv, .xls

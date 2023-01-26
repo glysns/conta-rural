@@ -8,3 +8,5 @@
 - [Gleyson Sampaio](https://github.com/glysns)
 
 ## Conta Rural
+
+Uma grande instituição financeira resolveu promover uma competição para atrair estudantes e profissionais em tecnologia para assim selecionar os 05 que apresentaram uma solução mais aderente aos problemas que serão apresentados ao longo das fasese e requisitos do projeto.

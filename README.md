@@ -9,6 +9,8 @@
 
 ## Conta Rural
 
+![](contarual.png )
+
 Uma grande instituição financeira resolveu promover uma competição para atrair estudantes e profissionais em tecnologia para assim selecionar os 05 que apresentarem uma solução mais aderente aos problemas que serão apresentados ao longo das fases e requisitos do projeto.
 
 Trata-se de um produto que este banco pretende lançar no mercado que será conhecido como Conta Rural, uma conta para pessoas físicas e ou micro-empreendedores que não possuem tanto acesso à tecnologia e internet.

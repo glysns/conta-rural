@@ -42,7 +42,8 @@ Espera-se que através de visitas nos estabelecimentos rurais, o time de coleta 
 
 > Nesta primeira etapa, devemos considerar a necessidade de explorar os conceitos da orientação a objetos, noções de UML e tipos de dados além da escrita e leitura em arquivos.
 
-[Anatomia de uma classe](https://www.youtube.com/watch?v=CrbSqRk9vw0&list=PL8NbPylKQ8NlRzFoqlC2iA1Dxcqvk7uSZ&index=12)
+* [Anatomia de uma classe](https://www.youtube.com/watch?v=CrbSqRk9vw0&list=PL8NbPylKQ8NlRzFoqlC2iA1Dxcqvk7uSZ&index=12)
+* [Sintaxe básica](https://sintaxe.netlify.app/topicos/linguagens/java/basico/sintaxe)
 #### Fluxos do processo de coleta
 
 1. Todos os consultores deverão entregar as suas fichas para o técnico realizar o processo de armazenamento dos dados;

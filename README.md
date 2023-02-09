@@ -40,7 +40,7 @@ Espera-se que através de visitas nos estabelecimentos rurais, o time de coleta 
 1. Dados Pessoais: Nome, Data Nascimento, CPF/CNPJ, RG/I.E.,  Sexo, Nome da Mae, Estado Civil, Renda Atual, Telefone, Celular, Email
 1. Dados de Endereço: Cep, Logradouro, Numero, Bairro, Complemento, Municipio, Estado
 
-> Nesta primeira etapa, devemos considerar a necessidade de explorar os conceitos da orientação a objetos, noções de UML e tipos de dados
+> Nesta primeira etapa, devemos considerar a necessidade de explorar os conceitos da orientação a objetos, noções de UML e tipos de dados além da escrita e leitura em arquivos.
 
 #### Fluxos do processo de coleta
 

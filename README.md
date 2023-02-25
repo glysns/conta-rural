@@ -50,7 +50,7 @@ Espera-se que através de visitas nos estabelecimentos rurais, o time de coleta 
 1. Os dados INICIALMENTE serão armezados em um arquivo denominado de: **conta-rural-fichas-cadastrais.csv** (caso windows: c:\conta-rural, caso linux: /home/conta-rural);
 1. Um arquivo csv contém suas colunas seperadas por ponto e vírgula ( ; );
 1. A ordem das colunas para o arquivo csv será : Nome, Data Nascimento, CPF/CNPJ, RG/I.E., Renda Atual, Telefone, Celular, Email, Cep, Logradouro, Numero, Bairro, Complemento, Municipio, Uf
-1. Após a coleta de todas as fichas e a atualização do arquivo conta-rural-fichas-cadastrais.csv através do sistema (Não precisa ser tela, só um console ou terminal já está ótimo), é necessário ler este arquivo para gerar um novo arquivo conforme especificações do BACEN. Ver requisitos do BACEN conforme abaixo:
+1. Após a coleta de todas as fichas e a atualização do arquivo conta-rural-fichas-cadastrais.csv através do sistema será necessário ler este arquivo para gerar um novo arquivo conforme especificações do BACEN. Ver requisitos do BACEN conforme abaixo:
 
 #### Requisitos do BACEN
 

@@ -37,8 +37,8 @@ Vamos iniciar o nosso MVP (Produto Mínimo Viável) considerando o seguinte aspe
 
 Espera-se que através de visitas nos estabelecimentos rurais, o time de coleta de dados deverá através de preenchimento dos formulários impressos obter as seguintes informações:
 
-1. Dados Pessoais: Nome, Data Nascimento, CPF/CNPJ, RG/I.E.,  Sexo, Nome da Mae, Estado Civil, Renda Atual, Telefone, Celular, Email
-1. Dados de Endereço: Cep, Logradouro, Numero, Bairro, Complemento, Municipio, Estado
+1. Dados Pessoais: Nome, Data Nascimento, CPF/CNPJ, RG/I.E.,Renda Atual, Telefone, Celular, Email
+1. Dados de Endereço: Cep, Logradouro, Numero, Bairro, Complemento, Municipio, Uf
 
 > Nesta primeira etapa, devemos considerar a necessidade de explorar os conceitos da orientação a objetos, noções de UML e tipos de dados além da escrita e leitura em arquivos.
 

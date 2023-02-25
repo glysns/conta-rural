@@ -58,7 +58,7 @@ O BACEN solicitou para a nossa instituição financeira o envio dos cadastros co
 
 | Ordem | Campo        | Tamanho | Valor Originial - Inserido sem padrão                            | Valor Formatado (BACEN)          | Observação                                                                 |
 |-------|--------------|---------|------------------------------------------------------------------|----------------------------------|----------------------------------------------------------------------------|
-| 01    | Nome         | 30      | Raimundo Nonato Loureiro Castelo Branco                          | RAIMUNDO NONATO LOUREIRO CASTE   | Se o nome for superior a 30 caracteres, cortar o final do nome             |
+| 01    | Nome         | 30      | Raimundo Nonato Loureiro Castelo Branco                          | RAIMUNDO NONATO LOUREIRO CASTE   | Se o nome for superior ao tamanho máximo de caracteres, cortar o final do nome, caso inferior completar com espaços à esquerda             |
 | 02    | Data         | 08      | 16/04/1986                                                       | 19860416                         |                                                                            |
 | 03    | CPF\CNPJ     | 14      | 135.217.791-18                                                   | 00013521779118                   |                                                                            |
 | 04    | Renda Atual  | 10      | 1.275,48                                                         | 0000127548                       | Em caso não ter renda, preencher com 0000000000                            |

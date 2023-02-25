@@ -64,13 +64,14 @@ O BACEN solicitou para a nossa instituição financeira o envio dos cadastros co
 | 04    | Renda Atual  | 10      | 1.275,48                                                         | 0000127548                       | Em caso não ter renda, preencher com 0000000000                            |
 | 05    | Telefone     | 10      | (11) 3351-1010                                                   | 1133511010                       | Em caso não ter telefone, preecher com 10 espaços em braco                 |
 | 06    | Celular      | 11      | (11) 94565-2353                                                  | 11945652353                      | Em caso não ter celular, preecher com 11 espaços em braco                  | 
-| 07    | E-mail       | 50      | raimundo.nonato@gmail.com                                        | Garantir caracteres em mínúsculo | Em caso não ter celular, preecher com 11 espaços em braco                  | 
-| 11    | Lougradouro  | 60      | Ruas das laranjeiras                                             | RUAS DAS LARANJEIRAS             | Aplicar as mesmas regras de ajustes de campos considerando o limite máximo | 
-| 12    | Numero  | 5       | 123                                                              | 00123                            |                                                                            | 
-| 13    | Bairro       | 30      | Vila Nazare                                                      | VILA NAZARE                      | Aplicar as mesmas regras de ajustes de campos considerando o limite máximo | 
-| 14    | Complemento  | 20      | Bl 03 ap 113                                                     | BL 03 AP 113                     | Aplicar as mesmas regras de ajustes de campos considerando o limite máximo | 
-| 15    | Cidade       | 50      | Teresina                                                         | TERESINA                         | Aplicar as mesmas regras de ajustes de campos considerando o limite máximo | 
-| 16    | Estado       | 2       | Pi                                                               | PI                               | Aplicar as mesmas regras de ajustes de campos considerando o limite máximo | 
+| 07    | E-mail       | 50      | raimundo.nonato@gmail.com                                        | Garantir caracteres em mínúsculo | | 
+| 08    | Lougradouro  | 60      | Ruas das laranjeiras                                             | RUAS DAS LARANJEIRAS             | Aplicar as mesmas regras de ajustes de campos considerando o limite máximo | 
+| 09    | Numero  | 5       | 123                                                              | 00123                            |                                                                            | 
+| 10    | Bairro       | 30      | Vila Nazare                                                      | VILA NAZARE                      | Aplicar as mesmas regras de ajustes de campos considerando o limite máximo | 
+| 11    | Complemento  | 20      | Bl 03 ap 113                                                     | BL 03 AP 113                     | Aplicar as mesmas regras de ajustes de campos considerando o limite máximo | 
+| 12    | Cidade       | 50      | Teresina                                                         | TERESINA                         | Aplicar as mesmas regras de ajustes de campos considerando o limite máximo | 
+| 13    | Estado       | 2       | Pi                                                               | PI                               | Aplicar as mesmas regras de ajustes de campos considerando o limite máximo | 
+| 14    | Cep       | 8       | 65.300-000                                                               | 65300000                               | Aplicar as mesmas regras de ajustes de campos considerando o limite máximo | 
 
 
 # Em breve novos desafios

@@ -58,6 +58,8 @@ O BACEN solicitou para a nossa instituição financeira o envio dos cadastros co
 
 INICIALMENTE o arquivo será gerado no diretório conforme descrição (caso windows: c:\conta-rural, caso linux: /home/conta-rural);
 
+O envio de e-mail é de forma tradicional como um anexo em seu serviço de e-mail (simulação) onde o relevante é a geração do arquivo de forma consistente.
+
 | Ordem | Campo        | Tamanho | Valor Originial - Inserido sem padrão                            | Valor Formatado (BACEN)          | Observação                                                                 |
 |-------|--------------|---------|------------------------------------------------------------------|----------------------------------|----------------------------------------------------------------------------|
 | 01    | Nome         | 30      | Raimundo Nonato Loureiro Castelo Branco                          | RAIMUNDO NONATO LOUREIRO CASTE   | Se o valor for superior ao tamanho máximo de caracteres, cortar o final do nome, caso inferior completar com espaços à esquerda|

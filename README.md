@@ -80,11 +80,11 @@ O envio de e-mail é de forma tradicional como um anexo em seu serviço de e-mai
 
 No dia seguinte (D+1), o BACEN consturma disponibilizar o arquivo de retorno **conta-rural-fichas-cadastrais-bacen-YYYY-MM-DD.txt** onde Y=Ano, M=Mês, D=Dia com o mesmo layout do arquivo acima acrescentando três novas colunas que correspondem aos dados da conta: Numero da Agencia, Número da Conta e Data\Hora Abertura da Conta. Veja layout complementar abaixo:
 
-| Ordem | Campo        | Tamanho | Valor Originial - Inserido sem padrão                            | Valor Formatado (BACEN)          | Observação                                                                 |
+| Ordem | Campo        | Tamanho | Valor Real  | Valor Formatado (BACEN)          | Observação                                                                 |
 |-------|--------------|---------|------------------------------------------------------------------|----------------------------------|----------------------------------------------------------------------------|
-| 01    | Nome         | 30      | Raimundo Nonato Loureiro Castelo Branco                          | RAIMUNDO NONATO LOUREIRO CASTE   | Se o valor for superior ao tamanho máximo de caracteres, cortar o final do nome, caso inferior completar com espaços à esquerda|
-| 02    | Data         | 08      | 16/04/1986                                                       | 19860416                         |                                                                            |
-| 03    | CPF\CNPJ     | 14      | 135.217.791-18                                                   | 00013521779118                   |                     
+| 15    | Número Agência | 06      | 623                          | 000623   | |
+| 16    | Número Conta         | 08      | 19375                 | 00019375  |                                                                            |
+| 17    | Data Hora Abertura     | 14   | 01/03/2023 16:27:37   | 20230301162737 |                     
 
 # Em breve novos desafios
 

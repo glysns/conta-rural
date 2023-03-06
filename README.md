@@ -86,6 +86,8 @@ No dia seguinte (D+1), o BACEN consturma disponibilizar o arquivo de retorno **c
 | 16    | Número Conta         | 08      | 19375                 | 00019375  |                                                                            |
 | 17    | Data Hora Abertura     | 14   | 01/03/2023 16:27:37   | 20230301162737 |                     
 
+Nota: Poderão surgir novas classes, novos atributos e novos relacionamentos entre as mesmas, é natural.
+
 # Em breve novos desafios
 
 ![Aguarde](./thats-all.png)
